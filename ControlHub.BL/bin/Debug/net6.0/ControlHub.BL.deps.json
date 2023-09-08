@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ControlHub.BL/1.0.0": {
+        "dependencies": {
+          "ControlHub.BE": "1.0.0"
+        },
+        "runtime": {
+          "ControlHub.BL.dll": {}
+        }
+      },
+      "ControlHub.BE/1.0.0": {
+        "runtime": {
+          "ControlHub.BE.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ControlHub.BL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ControlHub.BE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

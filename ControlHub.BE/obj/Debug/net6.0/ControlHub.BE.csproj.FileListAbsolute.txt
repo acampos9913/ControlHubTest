@@ -1,0 +1,12 @@
+D:\Git\Clean Architecture 2\PropioProyecto\ControlHub\ControlHub.BE\bin\Debug\net6.0\ControlHub.BE.deps.json
+D:\Git\Clean Architecture 2\PropioProyecto\ControlHub\ControlHub.BE\bin\Debug\net6.0\ControlHub.BE.dll
+D:\Git\Clean Architecture 2\PropioProyecto\ControlHub\ControlHub.BE\bin\Debug\net6.0\ControlHub.BE.pdb
+D:\Git\Clean Architecture 2\PropioProyecto\ControlHub\ControlHub.BE\obj\Debug\net6.0\ControlHub.BE.csproj.AssemblyReference.cache
+D:\Git\Clean Architecture 2\PropioProyecto\ControlHub\ControlHub.BE\obj\Debug\net6.0\ControlHub.BE.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\Clean Architecture 2\PropioProyecto\ControlHub\ControlHub.BE\obj\Debug\net6.0\ControlHub.BE.AssemblyInfoInputs.cache
+D:\Git\Clean Architecture 2\PropioProyecto\ControlHub\ControlHub.BE\obj\Debug\net6.0\ControlHub.BE.AssemblyInfo.cs
+D:\Git\Clean Architecture 2\PropioProyecto\ControlHub\ControlHub.BE\obj\Debug\net6.0\ControlHub.BE.csproj.CoreCompileInputs.cache
+D:\Git\Clean Architecture 2\PropioProyecto\ControlHub\ControlHub.BE\obj\Debug\net6.0\ControlHub.BE.dll
+D:\Git\Clean Architecture 2\PropioProyecto\ControlHub\ControlHub.BE\obj\Debug\net6.0\refint\ControlHub.BE.dll
+D:\Git\Clean Architecture 2\PropioProyecto\ControlHub\ControlHub.BE\obj\Debug\net6.0\ControlHub.BE.pdb
+D:\Git\Clean Architecture 2\PropioProyecto\ControlHub\ControlHub.BE\obj\Debug\net6.0\ref\ControlHub.BE.dll

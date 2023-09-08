@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "SKMonJWuepQrhyLz9aNJAN7sLGQk3732Pxt17+GwkNM=",
+  "Source": "ControlHub.Api",
+  "BasePath": "_content/ControlHub.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
