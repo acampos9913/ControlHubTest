@@ -1,5 +1,3 @@
-**
-
 # ✨Control Hub Test ✨
 
 > El proyecto tiene como finalidad obtener el valor N de la serie
